@@ -1,0 +1,10 @@
+streamlit
+langchain
+langgraph
+langchain-google-genai
+requests
+pandas
+python-dotenv
+xhtml2pdf
+markdown
+langchain-openai
