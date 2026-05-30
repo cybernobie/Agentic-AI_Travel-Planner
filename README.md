@@ -31,8 +31,8 @@ An intelligent travel agent built with **Streamlit**, **LangChain**, and **LangG
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/agentic-ai-travel-planner.git
-   cd agentic-ai-travel-planner
+   git clone https://github.com/cybernobie/Agentic-AI_Travel-Planner.git
+   cd Agentic-AI_Travel-Planner
    ```
 
 2. **Create a virtual environment (optional but recommended):**
